@@ -1,0 +1,32 @@
+
+Accident_ID,Date,Time,City,Weather,Road_Type,Vehicle_Type,Accident_Severity,Casualties,Age
+A001,2025-01-05,08:30,Nagpur,Clear,Highway,Car,Minor,1,25
+A002,2025-01-08,18:45,Pune,Rain,Urban Road,Bike,Major,2,32
+A003,2025-01-12,21:15,Mumbai,Fog,Highway,Truck,Severe,3,41
+A004,2025-01-15,10:20,Nashik,Clear,Rural Road,Car,Minor,1,28
+A005,2025-01-20,17:30,Nagpur,Rain,Urban Road,Bike,Major,2,35
+A006,2025-02-03,07:45,Pune,Clear,Highway,Bus,Minor,1,45
+A007,2025-02-07,20:10,Mumbai,Fog,Urban Road,Car,Severe,4,38
+A008,2025-02-11,14:25,Nashik,Clear,Rural Road,Bike,Minor,1,23
+A009,2025-02-16,19:40,Nagpur,Rain,Highway,Truck,Major,2,50
+A010,2025-02-22,09:15,Pune,Clear,Urban Road,Car,Minor,1,29
+A011,2025-03-04,22:30,Mumbai,Rain,Highway,Bike,Severe,3,31
+A012,2025-03-09,16:45,Nashik,Clear,Urban Road,Car,Major,2,42
+A013,2025-03-14,11:20,Nagpur,Fog,Rural Road,Truck,Minor,1,47
+A014,2025-03-18,18:10,Pune,Rain,Highway,Bike,Major,2,26
+A015,2025-03-25,13:35,Mumbai,Clear,Urban Road,Bus,Minor,1,55
+A016,2025-04-02,06:50,Nashik,Fog,Highway,Car,Severe,4,36
+A017,2025-04-08,17:25,Nagpur,Clear,Rural Road,Bike,Minor,1,22
+A018,2025-04-13,20:45,Pune,Rain,Urban Road,Truck,Major,3,44
+A019,2025-04-19,12:15,Mumbai,Clear,Highway,Car,Minor,1,30
+A020,2025-04-24,19:05,Nashik,Rain,Urban Road,Bike,Severe,3,34
+A021,2025-05-05,08:10,Nagpur,Clear,Highway,Bus,Major,2,48
+A022,2025-05-10,21:30,Pune,Fog,Rural Road,Car,Severe,4,39
+A023,2025-05-17,15:40,Mumbai,Rain,Urban Road,Bike,Major,2,27
+A024,2025-05-23,10:55,Nashik,Clear,Highway,Truck,Minor,1,52
+A025,2025-06-04,18:20,Nagpur,Rain,Urban Road,Car,Major,2,33
+A026,2025-06-11,07:30,Pune,Clear,Rural Road,Bike,Minor,1,24
+A027,2025-06-17,22:15,Mumbai,Fog,Highway,Truck,Severe,5,46
+A028,2025-06-25,14:50,Nashik,Rain,Urban Road,Car,Major,2,37
+A029,2025-07-05,09:40,Nagpur,Clear,Highway,Bike,Minor,1,21
+A030,2025-07-12,19:55,Pune,Rain,Urban Road,Bus,Severe,3,43
